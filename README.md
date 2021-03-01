@@ -2,7 +2,7 @@
 
 📫  How to reach me?
 
-[![zhihu](https://img.shields.io/static/v1?style=flat-square&logo=zhihu&label=&message=@ayamir&color=eaeff9&labelColor=5b5b5b)](https://www.zhihu.com/people/https://www.zhihu.com/people/MiraculousMoon)
+[![zhihu](https://img.shields.io/static/v1?style=flat-square&logo=zhihu&label=&message=@ayamir&color=eaeff9&labelColor=5b5b5b)](https://www.zhihu.com/people/MiraculousMoon)
 
 <summary>⚡️ More about my coding life</summary>
 <br>
