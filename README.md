@@ -21,3 +21,6 @@ Rustacean, Gopher and Ricer.
 -->
 
 ![Ayamir's github stats](https://github-readme-stats.vercel.app/api?username=ayamir&count_private=true&show_icons=true&theme=nord)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
