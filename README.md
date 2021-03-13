@@ -24,9 +24,11 @@ Rustacean, Gopher and Ricer.
 
 <!--START_SECTION:waka-->
 ```text
-VimL         9 mins          ████████████▒░░░░░░░░░░░░   49.61 % 
-Emacs Lisp   5 mins          ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-Java         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-fish         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Week: 05 March, 2021 - 12 March, 2021
+
+VimL         9 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.61 % 
+Emacs Lisp   5 mins          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.89 % 
+Java         1 min           ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.97 % 
+fish         1 min           ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.47 % 
 ```
 <!--END_SECTION:waka-->
