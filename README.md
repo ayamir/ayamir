@@ -23,4 +23,10 @@ Rustacean, Gopher and Ricer.
 ![Ayamir's github stats](https://github-readme-stats.vercel.app/api?username=ayamir&count_private=true&show_icons=true&theme=nord)
 
 <!--START_SECTION:waka-->
+```text
+VimL         9 mins          ████████████▒░░░░░░░░░░░░   49.61 % 
+Emacs Lisp   5 mins          ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+Java         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+fish         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+```
 <!--END_SECTION:waka-->
