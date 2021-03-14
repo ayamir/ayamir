@@ -8,7 +8,7 @@ Major in software engineering.
 
 Love open source and GNU/Linux(Gentoo Linux user).
 
-Rustacean, Gopher and Ricer.
+Always hungry for programming and new technology.
 
 ## How to reach me?
 
