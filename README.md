@@ -20,6 +20,6 @@ Always hungry for programming and new technology.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayamir&layout=compact&hide=css,html)
 -->
 
-![Ayamir's github stats](https://github-readme-stats.vercel.app/api?username=ayamir&count_private=true&show_icons=true&title_color=89dceb&icon_color=ddb6f2&text_color=c9cbff&bg_color=302d41)
+![Ayamir's github stats](https://github-readme-stats.vercel.app/api?username=ayamir&count_private=true&show_icons=true&title_color=f8bd96&icon_color=f5c2e7&text_color=abe9b3&bg_color=1e1e1e)
 
 ![snake gif](https://github.com/ayamir/ayamir/blob/output/github-contribution-grid-snake.gif)
