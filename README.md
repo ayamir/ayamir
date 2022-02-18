@@ -21,5 +21,3 @@ Always hungry for programming and new technology.
 -->
 
 ![Ayamir's github stats](https://github-readme-stats.vercel.app/api?username=ayamir&count_private=true&show_icons=true&title_color=F5E0DC&icon_color=DDB6F2&text_color=D9E0EE&bg_color=1E1E2E)
-
-![snake gif](https://github.com/ayamir/ayamir/blob/output/github-contribution-grid-snake.gif)
