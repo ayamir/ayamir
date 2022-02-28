@@ -18,4 +18,6 @@ Always hungry for programming and new technology.
 
 ![Ayamir's Github Stats](https://github-readme-stats.vercel.app/api?username=ayamir&count_private=true&show_icons=true&title_color=F5E0DC&icon_color=DDB6F2&text_color=D9E0EE&bg_color=1E1E2E)
 
-![Language Overview](https://github.com/ayamir/github-stats/blob/master/generated/languages.svg)
+<!--
+[Language Overview](https://github.com/ayamir/github-stats/blob/master/generated/languages.svg)
+-->
