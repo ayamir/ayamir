@@ -16,7 +16,7 @@ Always hungry for programming and new technology.
 
 ## More about my coding life
 
-![Ayamir's Github Stats](https://github-readme-stats.vercel.app/api?username=ayamir&count_private=true&show_icons=true&title_color=F5E0DC&icon_color=DDB6F2&text_color=D9E0EE&bg_color=1E1E2E)
+![Ayamir's Github Stats](https://github-readme-stats.vercel.app/api?username=ayamir&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
 
 <!--
 [Language Overview](https://github.com/ayamir/github-stats/blob/master/generated/languages.svg)
