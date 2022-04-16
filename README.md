@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-Undergradute from Beijing University of Posts and Telecommunications.
+Undergraduate from Beijing University of Posts and Telecommunications.
 
 Major in software engineering.
 
