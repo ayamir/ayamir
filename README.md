@@ -2,11 +2,11 @@
 
 ## Who am I?
 
-Undergraduate from Beijing University of Posts and Telecommunications.
+Master from Beijing University of Posts and Telecommunications.
 
-Major in software engineering.
+Major in Computer Science.
 
-Love open source and GNU/Linux(Gentoo Linux user).
+Love open source and GNU/Linux.
 
 Always hungry for programming and new technology.
 
