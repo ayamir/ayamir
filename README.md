@@ -10,6 +10,10 @@ Love open source and GNU/Linux.
 
 Always hungry for programming and new technology.
 
+Interesed in Multimedia, VR and C++.
+
+Currently working on WebRTC and Video Encoding.
+
 ## How to reach me?
 
 [![zhihu](https://img.shields.io/static/v1?style=flat-square&logo=zhihu&label=&message=@ayamir&color=eaeff9&labelColor=96CDFB)](https://www.zhihu.com/people/MiraculousMoon)
