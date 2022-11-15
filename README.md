@@ -10,9 +10,9 @@ Love open source and GNU/Linux.
 
 Always hungry for programming and new technology.
 
-Interesed in Multimedia, VR and C++.
+Interesed in Multimedia and C++.
 
-Currently working on WebRTC and Video Encoding.
+Currently working on WebRTC and VR.
 
 ## How to reach me?
 
