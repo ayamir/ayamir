@@ -6,11 +6,11 @@ Master from Beijing University of Posts and Telecommunications.
 
 Major in Computer Science.
 
-Love open source and GNU/Linux (Gentoo Linux user).
+Love Open Source and GNU/Linux (Gentoo Linux user).
 
-Always hungry for programming and new technology.
+Always HUNGRY for Programming and NEW Technology.
 
-Interesed in Product development (C++/Go/Rust).
+Interesed in Product Development (C++/Go/Rust).
 
 ## How to reach me?
 
