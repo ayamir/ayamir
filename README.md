@@ -6,13 +6,11 @@ Master from Beijing University of Posts and Telecommunications.
 
 Major in Computer Science.
 
-Love open source and GNU/Linux.
+Love open source and GNU/Linux (Gentoo Linux user).
 
 Always hungry for programming and new technology.
 
-Interesed in Multimedia and C++.
-
-Currently working on WebRTC and VR.
+Interesed in Product development (C++/Go/Rust).
 
 ## How to reach me?
 
