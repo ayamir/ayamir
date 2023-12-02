@@ -10,7 +10,7 @@ Love Open Source and GNU/Linux (Gentoo Linux user).
 
 Always HUNGRY for Programming and NEW Technology.
 
-Interesed in Product Development (C++/Go/Rust).
+Interesed in Multimedia / WebRTC / Transport / Encoding (C++/Rust).
 
 ## How to reach me?
 
